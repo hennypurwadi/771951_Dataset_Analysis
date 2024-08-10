@@ -42,3 +42,17 @@ The univariate analysis focusing on single variables to understand the individua
 
 Visualization:
 Various data visualizations are to convey findings effectively. This could range from simple line plots and bar charts to more complex visualizations like heatmaps for correlation matrices, or pie charts to illustrate proportional relationships.
+
+The dataset can be utilized for analysis about customer behavior, providing valuable insights for optimizing efficiency and market strategies. For example to compare how much items were purchased at discount prices, compared to regular prices, the profit generate, to investigate consumer preferences by region, preferred shopping times (specific dates/months), and identifies the most profitable products.
+
+Bivariate Analysis
+Several forms of bivariate analysis are likely performed to explore relationships between two variables at a time. This could include:
+
+Numerical vs. Numerical Variables:
+Calculating correlation coefficients to identify the strength and direction of relationships between pairs of numerical variables, potentially visualized through scatter plots or regression lines.
+
+Categorical vs. Numerical Variables:
+Analyzing how numerical outcomes, such as sales or profit, vary across different categories. This might involve grouping data by categorical variables and comparing means or sums, visualized through bar charts or pie carts..
+
+Categorical vs. Categorical Variables:
+Examining the relationship between two categorical variables, potentially through cross-tabulation or stacked bar charts.
